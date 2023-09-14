@@ -1,6 +1,6 @@
 # Oakfield International Schools - School Website and Admin Dashboard
 
-![Project](./public/Screenshot.png)
+![Project](/client/public/Screenshot.png)
 
 ## Table of Contents
 
